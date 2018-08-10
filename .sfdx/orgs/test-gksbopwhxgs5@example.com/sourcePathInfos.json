@@ -1,0 +1,424 @@
+[
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533899759450,
+            "changeTime": 1533899759450,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533899759451,
+            "changeTime": 1533899759451,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533900980367,
+            "changeTime": 1533900980367,
+            "contentHash": "963339d4296c8068bf9a90d369838ed0bf6cd7b9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533905658458,
+            "changeTime": 1533905658458,
+            "isWorkspace": false,
+            "contentHash": "fc7272a4c0ee343f2cd3f5d3efa4f920f8eabc06"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533899759487,
+            "changeTime": 1533899759487,
+            "contentHash": "97f29324aaa418dc51914b8cb951a29d6e599bd5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.auradoc",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1533899759454,
+            "changeTime": 1533899759454,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.cmp",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.cmp",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1533899759458,
+            "changeTime": 1533899759458,
+            "contentHash": "083a4d59eb9eaa90e84a37bc6bfc7a0ccc352cee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 262,
+            "modifiedTime": 1533899759464,
+            "changeTime": 1533899759464,
+            "contentHash": "7d52374fdbf85e7a8b339a9365e5c05be8e55bc1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.css",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1533899759467,
+            "changeTime": 1533899759467,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.design",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.design",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1533899759470,
+            "changeTime": 1533899759470,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.svg",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1533899759474,
+            "changeTime": 1533899759474,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1Controller.js",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1Controller.js",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1533899759481,
+            "changeTime": 1533899759481,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1Helper.js",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1Helper.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1533899759484,
+            "changeTime": 1533899759484,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1Renderer.js",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle1\\LightningComponentBundle1Renderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1533899759487,
+            "changeTime": 1533899759487,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533900667543,
+            "changeTime": 1533900667543,
+            "contentHash": "f9791bb3f22b1ad3655cdeb207d0e8dc085cb208",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\classes\\Class1.cls",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\classes\\Class1.cls",
+            "isDirectory": false,
+            "size": 66,
+            "modifiedTime": 1533900667540,
+            "changeTime": 1533900667543,
+            "contentHash": "b1ca17452ba2fe52cfa0344360e3811438076e0e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\classes\\Class1.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\classes\\Class1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 184,
+            "modifiedTime": 1533899851856,
+            "changeTime": 1533899851856,
+            "contentHash": "4ee9f08ff70009c1ee9ed1592e109639b15681ec",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533901432163,
+            "changeTime": 1533901432163,
+            "isWorkspace": true,
+            "contentHash": "a181343c2c6a7ff3ed63d9d0db94ae4bc999ae7e"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\permissionsets\\PermissionSet1.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\permissionsets\\PermissionSet1.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 211,
+            "modifiedTime": 1533900980369,
+            "changeTime": 1533900980369,
+            "contentHash": "823ef978cf030f5f5928265a292e2d9a6cba764a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1533900980368,
+            "changeTime": 1533900980368,
+            "contentHash": "fc74015f576244cded1ee69bf924bfda6aa04af5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1533905658476,
+            "changeTime": 1533905658476,
+            "contentHash": "83602beaccf2d28936fcbdaea5c74038da778914"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1533905658476,
+            "changeTime": 1533905658476,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1533905658459,
+            "changeTime": 1533905658459,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 257,
+            "modifiedTime": 1533905658463,
+            "changeTime": 1533905658463,
+            "contentHash": "448cd0de30a6249cf041388cb313f759ba42d20a"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1533905658469,
+            "changeTime": 1533905658469,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1533905658477,
+            "changeTime": 1533905658477,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1533905658474,
+            "changeTime": 1533905658474,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2Controller.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2Controller.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1533905658465,
+            "changeTime": 1533905658465,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2Helper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2Helper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1533905658467,
+            "changeTime": 1533905658467,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2Renderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\WelkinSuiteProjects\\TestDXProject38\\force-app\\main\\default\\aura\\LightningComponentBundle2\\LightningComponentBundle2Renderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1533905658471,
+            "changeTime": 1533905658471,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
